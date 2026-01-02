@@ -1,0 +1,42 @@
+---
+import "../styles/global.css";
+import TarotSpread from "../components/TarotSpread.jsx";
+
+const title = "Tarot";
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+  </head>
+
+  <body
+    class="min-h-screen bg-gradient-to-br from-black via-purple-950 to-black text-white"
+  >
+    <main
+      class="relative flex min-h-screen flex-col items-center justify-center overflow-hidden px-4"
+    >
+      <div
+        class="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(168,85,247,0.15),transparent_60%)]"
+      >
+      </div>
+
+      <section
+        class="relative z-10 flex flex-col items-center gap-6 text-center"
+      >
+        <h1 class="text-4xl font-bold tracking-wide text-purple-300">
+          {title}
+        </h1>
+
+        <p class="max-w-md text-gray-300">
+          Una guía para el presente, Te amuuu xddd
+        </p>
+
+        <TarotSpread client:load />
+      </section>
+    </main>
+  </body>
+</html>
