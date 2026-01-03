@@ -4,7 +4,6 @@
   perspective: 1000px;
 }
 
-/* Decoración de esquinas místicas */
 body::before {
   content: "☽";
   position: fixed;

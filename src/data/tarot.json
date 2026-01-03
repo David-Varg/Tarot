@@ -406,5 +406,923 @@
         "spirit": "Fanatismo, impaciencia o energía mal canalizada."
       }
     }
+  },
+  {
+    "id": 13,
+    "arcana": "minor",
+    "name": "Reina de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Pareja afectuosa, honesta y decidida. Gran magnetismo personal.",
+        "work": "Éxito en los negocios, buena gestión del dinero y actitud servicial.",
+        "spirit": "Mente abierta, honorabilidad y conexión con el entorno rural o natural."
+      },
+      "reversed": {
+        "love": "Celos, posible infidelidad o una mujer que se opone a tus deseos.",
+        "work": "Oposición laboral, engaños o alguien que parece ayudar pero estorba.",
+        "spirit": "Inestabilidad emocional que nubla la honestidad."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "arcana": "minor",
+    "name": "Rey de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Hombre honesto, generalmente casado y protector. Relación seria.",
+        "work": "Liderazgo consciente, noticias sobre herencias o ganancias inesperadas.",
+        "spirit": "Integridad moral y fuerza basada en la experiencia."
+      },
+      "reversed": {
+        "love": "Persona severa y rígida, aunque con un fondo tolerante.",
+        "work": "Autoridad excesiva o dogmatismo que frena la innovación.",
+        "spirit": "Austeridad espiritual que puede rozar la frialdad."
+      }
+    }
+  },
+  {
+    "id": 1,
+    "arcana": "minor",
+    "name": "As de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Nacimiento, energía sexual, inicio de una familia o herencia.",
+        "work": "Iniciativa creativa, el punto de partida de un gran negocio o fortuna.",
+        "spirit": "Principio vital, el despertar de un poder o propósito nuevo."
+      },
+      "reversed": {
+        "love": "Alegría nublada, una relación que no termina de nacer o cae en ruina.",
+        "work": "Fracaso de planes recientes, decadencia de un proyecto o pérdidas.",
+        "spirit": "Pérdida del sentido de propósito o energía espiritual corrompida."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "arcana": "minor",
+    "name": "Dos de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Dicotomía: gran fortuna juntos o tristeza y mortificación física.",
+        "work": "Dominio de la situación, planificación de grandes empresas y riqueza.",
+        "spirit": "Sensación de grandeza que puede llevar al aislamiento o melancolía."
+      },
+      "reversed": {
+        "love": "Sorpresa emocional, miedo o encantamiento repentino.",
+        "work": "Preocupación inesperada, problemas que surgen de la nada.",
+        "spirit": "Temor a lo desconocido que frena la expansión personal."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "arcana": "minor",
+    "name": "Tres de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Cooperación sólida, mirar juntos hacia el futuro con esperanza.",
+        "work": "Comercio, exportación, ayuda de alguien con poder y éxito establecido.",
+        "spirit": "Fuerza establecida y descubrimiento de nuevas capacidades."
+      },
+      "reversed": {
+        "love": "Cese de la adversidad. Las dificultades románticas empiezan a terminar.",
+        "work": "Final de una racha de trabajo duro y decepciones. Alivio laboral.",
+        "spirit": "Suspensión del esfuerzo innecesario; descanso espiritual."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "arcana": "minor",
+    "name": "Cuatro de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Vida hogareña, refugio seguro, armonía y paz en la pareja.",
+        "work": "Prosperidad tras un trabajo bien hecho. Estabilidad y descanso.",
+        "spirit": "Paz interior y concordia con los valores propios."
+      },
+      "reversed": {
+        "love": "Se mantiene el éxito: felicidad, belleza y mejora del hogar.",
+        "work": "Prosperidad creciente, aunque quizá con menos celebración pública.",
+        "spirit": "Gratitud y florecimiento espiritual interno."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "arcana": "minor",
+    "name": "Cinco de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Lucha de egos o competencia por el afecto. Tensión sexual.",
+        "work": "Competencia intensa por dinero o posición. Batalla por el éxito.",
+        "spirit": "Lucha interna para alcanzar la superación o la opulencia."
+      },
+      "reversed": {
+        "love": "Disputas amargas, contradicciones y conflictos sin sentido.",
+        "work": "Litigios, engaños en el trabajo o contradicciones en los contratos.",
+        "spirit": "Bloqueo por exceso de ruido externo y falta de paz."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "arcana": "minor",
+    "name": "Seis de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Deseos cumplidos, esperanza coronada y buenas noticias en pareja.",
+        "work": "Triunfo público, reconocimiento y llegada de noticias importantes.",
+        "spirit": "Victoria del espíritu sobre las dificultades anteriores."
+      },
+      "reversed": {
+        "love": "Miedo a la traición o deslealtad. Un enemigo acecha la felicidad.",
+        "work": "Retraso indefinido en el éxito o el ascenso. Temor al fracaso.",
+        "spirit": "Aprehensión y falta de confianza en el propio camino."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "arcana": "minor",
+    "name": "Siete de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Defender la relación contra viento y marea. Éxito frente a la envidia.",
+        "work": "Negociaciones duras, competencia feroz donde llevas la ventaja.",
+        "spirit": "Valor para sostener tus creencias ante ataques externos."
+      },
+      "reversed": {
+        "love": "Ansiedad por la inestabilidad. Dudas sobre qué decisión tomar.",
+        "work": "Perplejidad ante los retos y riesgo de perder por indecisión.",
+        "spirit": "Confusión mental y falta de coraje para mantenerse firme."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "arcana": "minor",
+    "name": "Ocho de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Flechazos rápidos (flechas de amor), viajes y avances veloces.",
+        "work": "Gran actividad, rapidez en los procesos y metas que se alcanzan pronto.",
+        "spirit": "Movimiento energético positivo y esperanza renovada."
+      },
+      "reversed": {
+        "love": "Celos, disputas domésticas y peleas entre casados.",
+        "work": "Problemas de conciencia por decisiones apresuradas o mala gestión.",
+        "spirit": "Caos interno y remordimientos que frenan el avance."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "arcana": "minor",
+    "name": "Nueve de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Resistencia defensiva. Proteger la relación contra ataques.",
+        "work": "Fuerza ante la oposición, aunque con retrasos y esperas.",
+        "spirit": "Fortaleza mental ante la adversidad. Estar alerta."
+      },
+      "reversed": {
+        "love": "Obstáculos insuperables que llevan a la calamidad afectiva.",
+        "work": "Fracaso por falta de resistencia o por problemas imprevistos.",
+        "spirit": "Debilidad espiritual frente a las pruebas de la vida."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "arcana": "minor",
+    "name": "Ten de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Carga pesada. El éxito o la familia se sienten como una presión.",
+        "work": "Éxito que trae demasiado estrés. Posibles pérdidas legales.",
+        "spirit": "Opresión por las responsabilidades; apariencia engañosa."
+      },
+      "reversed": {
+        "love": "Dificultades e intrigas que complican la convivencia.",
+        "work": "Contrariedades laborales, mentiras o proyectos que se hunden.",
+        "spirit": "Sentirse atrapado en una red de engaños o autolimitación."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "arcana": "minor",
+    "name": "Sota de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Joven estudioso y servicial. Noticias o mensajes amorosos.",
+        "work": "Nuevas ideas, aplicación al estudio y reflexión profesional.",
+        "spirit": "Intuición naciente, meditación y mensajes del subconsciente."
+      },
+      "reversed": {
+        "love": "Seducción engañosa, artificios y falta de sinceridad.",
+        "work": "Inclinaciones pasajeras que distraen de lo importante.",
+        "spirit": "Uso de la intuición para el engaño o la manipulación."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "arcana": "minor",
+    "name": "Caballo de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Propuesta amorosa, invitación o la llegada de alguien especial.",
+        "work": "Nuevas ofertas, avances en negociaciones y actitud diplomática.",
+        "spirit": "Búsqueda de ideales y llegada de una guía espiritual."
+      },
+      "reversed": {
+        "love": "Fraude emocional, persona de doble cara o estafador.",
+        "work": "Subtilezas engañosas, falta de ética o negocios turbios.",
+        "spirit": "Falsedad en el camino espiritual; deshonestidad interna."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "arcana": "minor",
+    "name": "Reina de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Esposa perfecta y madre amorosa. Devoción y honestidad.",
+        "work": "Éxito basado en la inteligencia emocional y la sabiduría.",
+        "spirit": "Don de visión, virtud y gran conexión psíquica."
+      },
+      "reversed": {
+        "love": "Mujer distinguida pero poco fiable. Deshonor o vicios.",
+        "work": "Persona perversa en el entorno laboral. Falta de ética.",
+        "spirit": "Depravación o confusión entre intuición y fantasía."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "arcana": "minor",
+    "name": "Rey de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Hombre responsable, generoso y equilibrado. Amor maduro.",
+        "work": "Éxito en leyes, arte o ciencia. Persona que ayuda a tus metas.",
+        "spirit": "Inteligencia creativa y equidad moral."
+      },
+      "reversed": {
+        "love": "Hombre deshonesto y doble. Escándalos o vicios.",
+        "work": "Injusticia laboral, grandes pérdidas o corrupción.",
+        "spirit": "Pérdida de valores y comportamiento escandaloso."
+      }
+    }
+  },
+  {
+    "id": 1,
+    "arcana": "minor",
+    "name": "As de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Felicidad pura, alegría en el hogar y abundancia emocional.",
+        "work": "Nutrición de proyectos, plenitud y ambiente próspero.",
+        "spirit": "Fertilidad espiritual y conexión con la divinidad interna."
+      },
+      "reversed": {
+        "love": "Inestabilidad emocional, cambios bruscos o corazón falso.",
+        "work": "Falta de base sólida, cambios que generan inseguridad.",
+        "spirit": "Revolución interna dolorosa y falta de paz."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "arcana": "minor",
+    "name": "Dos de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Unión, pasión, afinidad profunda y concordia.",
+        "work": "Simpatía entre colegas y asociaciones armoniosas.",
+        "spirit": "Deseo que eleva y santifica la naturaleza humana."
+      },
+      "reversed": {
+        "love": "Celos, lujuria o deseos que nublan el juicio.",
+        "work": "Intereses personales que rompen la cooperación grupal.",
+        "spirit": "Deseos mundanos que bloquean el crecimiento espiritual."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "arcana": "minor",
+    "name": "Tres de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Celebración, felicidad compartida y victoria en el amor.",
+        "work": "Conclusión exitosa de un proyecto, alivio y satisfacción grupal.",
+        "spirit": "Sanación emocional y alegría de vivir."
+      },
+      "reversed": {
+        "love": "Exceso de placeres sensoriales o celebraciones que ocultan vacío.",
+        "work": "Finalización apresurada de un asunto; logros superficiales.",
+        "spirit": "Despilfarro de energía emocional en cosas banales."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "arcana": "minor",
+    "name": "Cuatro de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Hastío, aburrimiento o indiferencia ante nuevas propuestas afectivas.",
+        "work": "Apatía laboral; no ver las oportunidades por estar enfocado en el descontento.",
+        "spirit": "Introspección que roza la melancolía; necesidad de un nuevo estímulo."
+      },
+      "reversed": {
+        "love": "Nuevas relaciones o despertar del interés tras un periodo de aislamiento.",
+        "work": "Novedades, nuevas instrucciones y salida de la rutina.",
+        "spirit": "Presagio de un despertar espiritual y nuevas metas."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "arcana": "minor",
+    "name": "Cinco de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Duelo, arrepentimiento o matrimonio con cierta amargura.",
+        "work": "Pérdida material o herencia que no cumple las expectativas.",
+        "spirit": "Foco en lo perdido, aunque aún queda algo valioso por rescatar."
+      },
+      "reversed": {
+        "love": "Regreso de un viejo amor, nuevas alianzas y fin del duelo.",
+        "work": "Recuperación de proyectos antiguos o noticias de parientes.",
+        "spirit": "Superación de la tristeza y reconocimiento del linaje."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "arcana": "minor",
+    "name": "Seis de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Nostalgia, recuerdos de infancia o un amor del pasado que regresa.",
+        "work": "Volver a métodos antiguos que funcionan o ambiente laboral familiar.",
+        "spirit": "Conexión con la inocencia y el niño interior."
+      },
+      "reversed": {
+        "love": "Mirar hacia el futuro; renovación total de las relaciones.",
+        "work": "Nuevos entornos profesionales y actualización de conocimientos.",
+        "spirit": "Dejar atrás el pasado para permitir la evolución."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "arcana": "minor",
+    "name": "Siete de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Ilusiones románticas, castillos en el aire y exceso de opciones.",
+        "work": "Planes poco realistas o confusión ante múltiples caminos.",
+        "spirit": "Visiones imaginarias que carecen de sustancia permanente."
+      },
+      "reversed": {
+        "love": "Determinación, voluntad y elección de un camino real.",
+        "work": "Fin de la confusión; se toma una decisión firme y concreta.",
+        "spirit": "Deseo de materializar las visiones en la realidad."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "arcana": "minor",
+    "name": "Ocho de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Abandono de una relación que ya no llena; declive del afecto.",
+        "work": "Dejar un trabajo o proyecto para buscar algo más significativo.",
+        "spirit": "Retiro voluntario, modestia y búsqueda de la verdad interior."
+      },
+      "reversed": {
+        "love": "Gran alegría y felicidad recuperada tras un tiempo de búsqueda.",
+        "work": "Éxito inesperado o celebración de un logro tras la crisis.",
+        "spirit": "Felicidad espiritual y paz tras la renuncia."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "arcana": "minor",
+    "name": "Nueve de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Satisfacción afectiva, bienestar físico y armonía en la pareja.",
+        "work": "Éxito, victoria laboral y ventajas competitivas claras.",
+        "spirit": "Contento interior y gratitud por la abundancia recibida."
+      },
+      "reversed": {
+        "love": "Falta de sinceridad o errores que empañan la felicidad.",
+        "work": "Pequeños errores en el trabajo o éxito que no satisface del todo.",
+        "spirit": "Verdad a medias o libertad mal gestionada."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "arcana": "minor",
+    "name": "Diez de Copas",
+    "meanings": {
+      "upright": {
+        "love": "Felicidad familiar completa, amor duradero y paz en el hogar.",
+        "work": "Reputación impecable, logros compartidos y estabilidad.",
+        "spirit": "Conexión con el amor universal y plenitud del corazón."
+      },
+      "reversed": {
+        "love": "Disputas familiares, pérdida de la armonía o indignación.",
+        "work": "Conflictos en el ambiente laboral o falta de apoyo del equipo.",
+        "spirit": "Falso corazón o agitación interna que rompe la paz."
+      }
+    }
+  },
+  {
+    "id": 1,
+    "arcana": "minor",
+    "name": "As de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Sentimientos intensos, pasión extrema o claridad tras una charla.",
+        "work": "Triunfo del intelecto, gran fuerza de voluntad y éxito con poder.",
+        "spirit": "Claridad mental absoluta y justicia divina."
+      },
+      "reversed": {
+        "love": "Crueldad, discusiones cortantes o desastre afectivo.",
+        "work": "Tiranía, uso excesivo del poder y resultados desastrosos.",
+        "spirit": "Confusión mental, malicia o injusticia."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "arcana": "minor",
+    "name": "Dos de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Punto muerto, equilibrio difícil o afecto que se contiene.",
+        "work": "Acuerdos temporales, tregua y necesidad de decidir con calma.",
+        "spirit": "Paz armada o protección interna ante el conflicto externo."
+      },
+      "reversed": {
+        "love": "Doblés, mentiras o una falsa dirección en la relación.",
+        "work": "Deslealtad, falsedad en los contratos o confusión.",
+        "spirit": "Liberación de una duda pero con gran agitación mental."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "arcana": "minor",
+    "name": "Tres de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Separación, dolor emocional, alejamiento o ruptura.",
+        "work": "Pérdida de un empleo, retiro forzado o decepción en un negocio.",
+        "spirit": "Dolor necesario para el crecimiento y purificación emocional."
+      },
+      "reversed": {
+        "love": "Sanación tras el dolor, reconciliación o confusión emocional.",
+        "work": "Desorden laboral, errores que se repiten o alienación mental.",
+        "spirit": "Superación de una gran pena, aunque quedan secuelas."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "arcana": "minor",
+    "name": "Cuatro de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Retiro temporal, soledad necesaria para pensar en la pareja.",
+        "work": "Reposo tras el estrés, exilio voluntario o recuperación de energías.",
+        "spirit": "Vigilancia espiritual y meditación en retiro."
+      },
+      "reversed": {
+        "love": "Regreso a la actividad social tras un duelo o aislamiento.",
+        "work": "Reincorporación laboral prudente o administración cuidadosa.",
+        "spirit": "Despertar espiritual tras un periodo de estancamiento."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "arcana": "minor",
+    "name": "Cinco de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Victoria amarga, degradación del otro o conflicto dañino.",
+        "work": "Ganar a toda costa dejando enemigos, deshonra o pérdida.",
+        "spirit": "Reconocer las limitaciones propias tras un fracaso del ego."
+      },
+      "reversed": {
+        "love": "Rencores que persisten tras una pelea. Tristeza profunda.",
+        "work": "Ambiente laboral tóxico o derrota humillante.",
+        "spirit": "Duelo espiritual y visión negativa del entorno."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "arcana": "minor",
+    "name": "Seis de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Viaje en pareja o cambio de aires para sanar la relación.",
+        "work": "Transición hacia mejores condiciones; solución de conflictos.",
+        "spirit": "Paso de la ansiedad a la calma mental."
+      },
+      "reversed": {
+        "love": "Dificultad para salir de un bache emocional.",
+        "work": "Estancamiento en trámites o propuestas que no avanzan.",
+        "spirit": "Resistencia a dejar atrás viejos patrones de pensamiento."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "arcana": "minor",
+    "name": "Siete de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Necesidad de independencia o planes ocultos en la pareja.",
+        "work": "Astucia, estrategia y nuevos intentos de éxito.",
+        "spirit": "Uso de la inteligencia para sortear obstáculos difíciles."
+      },
+      "reversed": {
+        "love": "Dudas, consejos ignorados o conversaciones circulares.",
+        "work": "Falta de atención a los detalles; se ignoran advertencias útiles.",
+        "spirit": "Confusión entre ser astuto y ser sabio."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "arcana": "minor",
+    "name": "Ocho de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Sentirse atrapado o limitado por miedos e inseguridades.",
+        "work": "Restricción laboral, censura o dificultades que paralizan.",
+        "spirit": "Prisión mental; incapacidad temporal de ver la salida."
+      },
+      "reversed": {
+        "love": "Liberación de una opresión o de un trauma emocional.",
+        "work": "Superación de incidentes imprevistos; fin de la parálisis.",
+        "spirit": "Inicio de la acción tras un bloqueo psicológico."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "arcana": "minor",
+    "name": "Nueve de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Angustia, pesadillas y preocupación excesiva por el otro.",
+        "work": "Decepción, fracaso o retrasos que generan ansiedad.",
+        "spirit": "Sufrimiento mental; periodo de gran carga psicológica."
+      },
+      "reversed": {
+        "love": "Miedo al deshonor o sospechas que resultan ser ciertas.",
+        "work": "Necesidad de extrema prudencia ante posibles fallos.",
+        "spirit": "Enfrentar las sombras internas con timidez o duda."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "arcana": "minor",
+    "name": "Diez de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Final doloroso, traición o desolación total.",
+        "work": "Ruina, despido o el cierre definitivo de un proyecto.",
+        "spirit": "Tocar fondo; el final de un ciclo de sufrimiento."
+      },
+      "reversed": {
+        "love": "Ventaja pasajera o éxito que no durará mucho.",
+        "work": "Poder momentáneo con cimientos muy inestables.",
+        "spirit": "Ilusión de victoria que no sana el vacío real."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "arcana": "minor",
+    "name": "Sota de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Persona joven y curiosa; noticias que requieren análisis.",
+        "work": "Vigilancia de los detalles y gestión astuta de la información.",
+        "spirit": "Claridad analítica y capacidad de observación."
+      },
+      "reversed": {
+        "love": "Indiscreción, espionaje o alguien que actúa con malicia.",
+        "work": "Noticias imprevistas negativas o falta de preparación.",
+        "spirit": "Mente dispersa que pierde el foco de la verdad."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "arcana": "minor",
+    "name": "Caballo de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Acción impetuosa por el ser amado; defensa valiente.",
+        "work": "Celeridad, destreza y resolución rápida de retos.",
+        "spirit": "Ímpetu intelectual y lucha por los ideales propios."
+      },
+      "reversed": {
+        "love": "Imprudencia, peleas agresivas o impulsividad tonta.",
+        "work": "Incapacidad para manejar la presión; errores por prisas.",
+        "spirit": "Energía mental mal dirigida hacia el conflicto."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "arcana": "minor",
+    "name": "Reina de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Mujer independiente que valora la verdad y la claridad.",
+        "work": "Agudeza mental, honestidad brutal y gran familiaridad con el entorno.",
+        "spirit": "Sabiduría austera nacida de la experiencia y la soledad."
+      },
+      "reversed": {
+        "love": "Malicia, hipocresía o una mujer que busca dañar.",
+        "work": "Engaños disfrazados de consejos; estrechez de miras.",
+        "spirit": "Uso del intelecto para la manipulación o la crueldad."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "arcana": "minor",
+    "name": "Rey de Espadas",
+    "meanings": {
+      "upright": {
+        "love": "Hombre de autoridad y lógica; relación basada en el intelecto.",
+        "work": "Mando, justicia, poder jurídico y capacidad de juicio.",
+        "spirit": "Dominio absoluto de la mente y equilibrio moral."
+      },
+      "reversed": {
+        "love": "Crueldad, tiranía o un hombre que usa su poder para el mal.",
+        "work": "Injusticia laboral, conflictos legales o corrupción.",
+        "spirit": "Maldad consciente o pensamientos altamente destructivos."
+      }
+    }
+  },
+  {
+    "id": 1,
+    "arcana": "minor",
+    "name": "As de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Estabilidad, compromiso sólido y comienzo de una etapa próspera.",
+        "work": "Nueva oportunidad financiera, éxito material y bases sólidas.",
+        "spirit": "Manifestación de lo espiritual en lo físico; plenitud."
+      },
+      "reversed": {
+        "love": "Materialismo en la pareja o retraso en planes de convivencia.",
+        "work": "Inestabilidad económica o una oportunidad desperdiciada.",
+        "spirit": "Apego excesivo a las posesiones materiales."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "arcana": "minor",
+    "name": "Dos de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Equilibrio entre la pareja y otras responsabilidades; adaptabilidad.",
+        "work": "Multitarea, gestión de recursos y cambios que requieren flexibilidad.",
+        "spirit": "Fluir con los altibajos de la vida manteniendo el centro."
+      },
+      "reversed": {
+        "love": "Desequilibrio afectivo; el estrés externo afecta la relación.",
+        "work": "Mala organización, deudas o incapacidad de manejar el flujo de dinero.",
+        "spirit": "Inestabilidad por intentar abarcar más de lo posible."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "arcana": "minor",
+    "name": "Tres de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Construcción de un futuro común; respeto y metas compartidas.",
+        "work": "Trabajo en equipo, maestría profesional y reconocimiento del talento.",
+        "spirit": "El perfeccionamiento del ser a través de la disciplina."
+      },
+      "reversed": {
+        "love": "Falta de metas comunes o desinterés en construir la relación.",
+        "work": "Mediocridad, falta de cooperación o retrasos por falta de pericia.",
+        "spirit": "Falta de autodisciplina en el camino espiritual."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "arcana": "minor",
+    "name": "Cuatro de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Búsqueda de seguridad; a veces posesividad o celos.",
+        "work": "Ahorro, estabilidad financiera y consolidación del patrimonio.",
+        "spirit": "Necesidad de estructura, pero riesgo de rigidez mental."
+      },
+      "reversed": {
+        "love": "Miedo a perder al otro o liberación de una relación asfixiante.",
+        "work": "Gastos inesperados, pérdida de control o miedo a la quiebra.",
+        "spirit": "Bloqueo por aferrarse a ideas antiguas."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "arcana": "minor",
+    "name": "Cinco de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Pasar juntos por dificultades; apoyo mutuo en tiempos de crisis.",
+        "work": "Pérdida financiera, desempleo o sensación de exclusión.",
+        "spirit": "Noche oscura del alma; necesidad de fe en medio de la carencia."
+      },
+      "reversed": {
+        "love": "Superación de una crisis de pareja; recuperación del bienestar.",
+        "work": "Mejora económica lenta o fin de un periodo de escasez.",
+        "spirit": "Renovación de la fe y salida de la soledad espiritual."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "arcana": "minor",
+    "name": "Seis de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Generosidad, equilibrio entre dar y recibir en el amor.",
+        "work": "Aumento de sueldo, préstamos aprobados o ayuda de un mentor.",
+        "spirit": "Compasión y reconocimiento de las bendiciones recibidas."
+      },
+      "reversed": {
+        "love": "Relación desigual donde uno da mucho más que el otro.",
+        "work": "Injusticia salarial, deudas impagables o avaricia.",
+        "spirit": "Falsa generosidad o sentimiento de superioridad espiritual."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "arcana": "minor",
+    "name": "Siete de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Paciencia; esperar a que la relación rinda sus frutos.",
+        "work": "Evaluación de resultados, visión a largo plazo y cosecha lenta.",
+        "spirit": "Contemplación del progreso realizado en el crecimiento personal."
+      },
+      "reversed": {
+        "love": "Impaciencia o decepción por resultados que no llegan.",
+        "work": "Fracaso por falta de esfuerzo o por haber invertido en algo estéril.",
+        "spirit": "Ansiedad por la falta de iluminación inmediata."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "arcana": "minor",
+    "name": "Ocho de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Trabajar activamente en mejorar la relación día tras día.",
+        "work": "Especialización, dedicación al detalle y aprendizaje continuo.",
+        "spirit": "Dedicación constante a la práctica espiritual diaria."
+      },
+      "reversed": {
+        "love": "Aburrimiento por la rutina o descuido de los detalles afectivos.",
+        "work": "Falta de ambición, trabajo chapucero o perfeccionismo paralizante.",
+        "spirit": "Práctica espiritual mecánica y sin alma."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "arcana": "minor",
+    "name": "Nueve de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Independencia dentro de la pareja; disfrutar de la comodidad.",
+        "work": "Éxito individual, autosuficiencia y refinamiento profesional.",
+        "spirit": "Armonía con el entorno y autorrealización."
+      },
+      "reversed": {
+        "love": "Soledad disfrazada de lujo o dependencia económica dañina.",
+        "work": "Pérdida de estatus, engaños financieros o falta de disciplina.",
+        "spirit": "Vivir de las apariencias descuidando el interior."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "arcana": "minor",
+    "name": "Diez de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Linaje familiar, herencia afectiva y seguridad a largo plazo.",
+        "work": "Riqueza consolidada, pensiones, herencias y éxito corporativo.",
+        "spirit": "Conexión con los ancestros y sabiduría transmitida."
+      },
+      "reversed": {
+        "love": "Disputas por dinero en la familia; falta de bases sólidas.",
+        "work": "Pérdida de herencia, mala gestión de fondos familiares o quiebra.",
+        "spirit": "Desconexión de las raíces o tradiciones familiares."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "arcana": "minor",
+    "name": "Sota de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Nuevas perspectivas románticas; planes realistas a futuro.",
+        "work": "Estudiante aplicado, noticias sobre dinero o inicio de carrera.",
+        "spirit": "Deseo de aprender y aplicar leyes espirituales en el mundo físico."
+      },
+      "reversed": {
+        "love": "Inmadurez o falta de compromiso para materializar sueños.",
+        "work": "Falta de concentración, noticias de pérdidas o pereza.",
+        "spirit": "Mente cerrada a nuevas formas de aprendizaje."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "arcana": "minor",
+    "name": "Caballo de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Lealtad extrema, estabilidad y protección constante.",
+        "work": "Eficiencia, trabajo duro, ahorro y responsabilidad absoluta.",
+        "spirit": "Avance lento pero seguro hacia la maestría personal."
+      },
+      "reversed": {
+        "love": "Estancamiento por excesiva rutina o falta de pasión.",
+        "work": "Inercia laboral, dogmatismo o falta de iniciativa.",
+        "spirit": "Obsesión por el detalle que impide ver el panorama espiritual."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "arcana": "minor",
+    "name": "Reina de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Pareja nutricia, práctica y generosa. Gran calidez hogareña.",
+        "work": "Prosperidad, sentido común en los negocios y opulencia.",
+        "spirit": "Conexión con la Tierra y el espíritu de la abundancia."
+      },
+      "reversed": {
+        "love": "Aislamiento emocional o excesiva preocupación por lo material.",
+        "work": "Inseguridad financiera o desconfianza en las capacidades propias.",
+        "spirit": "Dependencia excesiva de lo físico para sentirse segura."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "arcana": "minor",
+    "name": "Rey de Oros",
+    "meanings": {
+      "upright": {
+        "love": "Hombre protector, estable y con éxito material. Relación sólida.",
+        "work": "Liderazgo financiero, dominio del mundo material y éxito rotundo.",
+        "spirit": "Poder espiritual manifestado a través de la benevolencia física."
+      },
+      "reversed": {
+        "love": "Persona materialista, tacaña o que usa el dinero para controlar.",
+        "work": "Corrupción, avaricia o fracaso en grandes empresas.",
+        "spirit": "Espíritu corrompido por el poder o el deseo de posesión."
+      }
+    }
   }
 ]

@@ -1,8 +1,9 @@
 ---
 import "../styles/global.css";
 import TarotSpread from "../components/TarotSpread.jsx";
+import AudioPlayer from "../components/AudioPlayer.jsx"; // Componente de Audio
 
-const title = "Tarot";
+const title = "Tarot de Mae 🌙";
 ---
 
 <!doctype html>
@@ -12,46 +13,112 @@ const title = "Tarot";
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/png" href="/Tarot-logo.png" />
     <title>{title}</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@300;400&display=swap"
+      rel="stylesheet"
+    />
   </head>
 
-  <body class="bg-[#050208] text-white min-h-screen overflow-x-hidden">
-    <div
-      class="fixed inset-0 bg-[url('https://www.transparenttextures.com/patterns/stardust.png')] opacity-30 pointer-events-none"
-    >
-    </div>
-
-    <div
-      class="fixed top-[-10%] left-[-10%] w-[40%] h-[40%] bg-purple-900/20 blur-[120px] rounded-full"
-    >
-    </div>
-    <div
-      class="fixed bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-red-900/10 blur-[120px] rounded-full"
-    >
-    </div>
-
-    <main
-      class="relative z-10 flex min-h-screen flex-col items-center justify-center overflow-hidden px-4"
-    >
+  <body
+    class="bg-[#050208] text-white min-h-screen overflow-x-hidden font-['Lato'] selection:bg-purple-500/30"
+  >
+    <div class="fixed inset-0 z-0">
       <div
-        class="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(168,85,247,0.15),transparent_60%)]"
+        class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/stardust.png')] opacity-20 animate-pulse"
+      >
+      </div>
+      <div
+        class="absolute top-[-20%] left-[-10%] w-[50%] h-[50%] bg-purple-900/20 blur-[150px] rounded-full animate-blob"
+      >
+      </div>
+      <div
+        class="absolute bottom-[-20%] right-[-10%] w-[50%] h-[50%] bg-indigo-900/20 blur-[150px] rounded-full animate-blob animation-delay-2000"
+      >
+      </div>
+      <div
+        class="absolute top-[40%] left-[30%] w-[30%] h-[30%] bg-fuchsia-900/10 blur-[120px] rounded-full animate-blob animation-delay-4000"
       >
       </div>
 
+      <div class="stars"></div>
+      <div class="stars2"></div>
+    </div>
+
+    <main
+      class="relative z-10 flex min-h-screen flex-col items-center justify-start pt-10 pb-24 overflow-hidden px-4"
+    >
       <section
-        class="relative z-10 flex flex-col items-center gap-6 text-center"
+        class="flex flex-col items-center gap-4 text-center mb-8 animate-fade-in-down"
       >
         <h1
-          class="text-6xl font-serif tracking-tighter text-transparent bg-clip-text bg-linear-to-b from-purple-200 to-purple-500 drop-shadow-[0_0_15px_rgba(168,85,247,0.5)]"
+          class="text-5xl md:text-7xl font-['Cinzel'] tracking-tighter text-transparent bg-clip-text bg-linear-to-b from-purple-100 via-purple-300 to-purple-600 drop-shadow-[0_0_25px_rgba(168,85,247,0.6)]"
         >
           Tarot de Mae
         </h1>
-
-        <p class="max-w-md text-gray-300">
-          Una guía para el presente, Te amuuu xddd
+        <p
+          class="text-sm md:text-base text-purple-200/60 font-serif tracking-widest uppercase border-y border-purple-500/20 py-2 px-6"
+        >
+          La respuesta está en tu intuición
         </p>
-
-        <TarotSpread client:load />
       </section>
+
+      <TarotSpread client:load />
+
+      <AudioPlayer client:idle />
     </main>
+
+    <footer
+      class="fixed bottom-0 w-full bg-black/40 backdrop-blur-md border-t border-white/5 py-3 z-50"
+    >
+      <div class="container mx-auto flex justify-center items-center">
+        <p
+          class="text-[10px] md:text-xs text-purple-300/60 font-serif tracking-wider flex items-center gap-2"
+        >
+          <span>🔮 Consultando a las estrellas para Mae</span>
+          <span class="w-1 h-1 bg-purple-500 rounded-full"></span>
+          <span>Hecho con ❤️ por David</span>
+        </p>
+      </div>
+    </footer>
   </body>
 </html>
+
+<style>
+  /* Animaciones de Fondo */
+  @keyframes blob {
+    0% {
+      transform: translate(0px, 0px) scale(1);
+    }
+    33% {
+      transform: translate(30px, -50px) scale(1.1);
+    }
+    66% {
+      transform: translate(-20px, 20px) scale(0.9);
+    }
+    100% {
+      transform: translate(0px, 0px) scale(1);
+    }
+  }
+  .animate-blob {
+    animation: blob 10s infinite;
+  }
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+  .animate-fade-in-down {
+    animation: fadeInDown 1s ease-out;
+  }
+  @keyframes fadeInDown {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>

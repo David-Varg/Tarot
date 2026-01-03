@@ -8,9 +8,15 @@ export function drawCards(amount) {
     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
   }
 
-  return shuffled.slice(0, amount).map(card => ({
-    ...card,
-    image: `/cards/major/${String(card.id).padStart(2, "0")}.jpg`,
-    reversed: Math.random() < 0.5
-  }));
+  return shuffled.slice(0, amount).map(card => {
+    const imagePath = card.arcana === "major" 
+      ? `/cards/major/${String(card.id).padStart(2, "0")}.jpg` 
+      : null;
+      
+    return {
+      ...card,
+      image: imagePath,
+      reversed: Math.random() < 0.5
+    };
+  });
 }
