@@ -3,3 +3,24 @@
 .perspective {
   perspective: 1000px;
 }
+
+/* Decoración de esquinas místicas */
+body::before {
+  content: "☽";
+  position: fixed;
+  top: 40px;
+  left: 40px;
+  font-size: 3rem;
+  color: rgba(168, 85, 247, 0.15);
+  filter: blur(1px);
+}
+
+body::after {
+  content: "☼";
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  font-size: 3rem;
+  color: rgba(168, 85, 247, 0.15);
+  filter: blur(1px);
+}

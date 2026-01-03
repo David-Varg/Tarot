@@ -2,7 +2,11 @@ import { motion } from "framer-motion";
 
 export default function TarotCard({ card, flipped, shuffling }) {
   return (
-    <div className="relative h-48 w-64 perspective">
+    <div
+      className="relative h-72 w-48 perspective md:h-80 md:w-56 border border-red-600/0
+shadow-[0_0_25px_rgba(220,38,38,0.15)]
+"
+    >
       <motion.div
         className="absolute inset-0"
         animate={{
@@ -15,20 +19,20 @@ export default function TarotCard({ card, flipped, shuffling }) {
         }}
         style={{ transformStyle: "preserve-3d" }}
       >
-        {/* Dorso */}
         <div
           className="absolute inset-0 flex items-center justify-center rounded-2xl
-                     bg-gradient-to-br from-purple-900 to-black
+                     bg-linear-to-br from-purple-900 to-black
                      border border-purple-500/30 shadow-2xl"
           style={{ backfaceVisibility: "hidden" }}
         >
           <span className="text-3xl text-purple-300">🔮</span>
         </div>
 
-        {/* Frente */}
         <div
           className="absolute inset-0 flex items-center justify-center rounded-2xl
-                     bg-black/80 text-center border border-purple-500/30"
+                     bg-black/80 text-center border border-red-600/0
+shadow-[0_0_25px_rgba(220,38,38,0.15)]
+"
           style={{
             backfaceVisibility: "hidden",
             transform: "rotateY(180deg)",
@@ -36,13 +40,17 @@ export default function TarotCard({ card, flipped, shuffling }) {
         >
           {card && (
             <motion.div
-              className={`flex flex-col items-center ${
-                card.reversed ? "rotate-180" : ""
-              }`}
+              className={`flex flex-col items-center`} /* ${card.reversed ? "rotate-180" : "" */
               animate={card.reversed ? { y: [0, -2, 0] } : {}}
               transition={{ repeat: Infinity, duration: 2 }}
             >
-              <p className="text-lg font-semibold text-purple-300">
+              <img
+                src={card.image}
+                alt={card.name}
+                className={`h-full w-full rounded-lg object-contain`}
+              />
+
+              <p className="mt-2 text-sm font-semibold text-purple-300">
                 {card.name}
               </p>
               <p className="mt-2 text-xs tracking-widest text-purple-400">

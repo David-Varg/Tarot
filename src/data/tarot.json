@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "arcana": "major",
+    "name": "El Mago",
+    "meanings": {
+      "upright": {
+        "love": "Momento de tomar la iniciativa y encantar. Nuevos comienzos románticos.",
+        "work": "Tienes las herramientas y habilidades necesarias. Éxito en emprendimientos.",
+        "spirit": "Poder de manifestación consciente. Conexión entre lo divino y lo terrenal."
+      },
+      "reversed": {
+        "love": "Manipulación, mentiras o un seductor poco fiable.",
+        "work": "Proyectos estancados por falta de voluntad o planificación. Estafas.",
+        "spirit": "Bloqueo creativo. Uso del poder personal para fines egoístas."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "arcana": "major",
+    "name": "La Sacerdotisa",
+    "meanings": {
+      "upright": {
+        "love": "Conexión anímica profunda, amor platónico o mantener un secreto.",
+        "work": "Confía en tu intuición antes de actuar. Información oculta saldrá a la luz.",
+        "spirit": "Sabiduría interior, sueños premonitorios y crecimiento espiritual silencioso."
+      },
+      "reversed": {
+        "love": "Falta de conexión emocional, frialdad o secretos que hacen daño.",
+        "work": "Confusión, ignorar tus instintos te traerá problemas.",
+        "spirit": "Desconexión de tu yo interior. Superficialidad."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "arcana": "major",
+    "name": "La Emperatriz",
+    "meanings": {
+      "upright": {
+        "love": "Fertilidad, pasión sensual, armonía y cuidado mutuo.",
+        "work": "Creatividad abundante, nacimiento de nuevos proyectos o negocios prósperos.",
+        "spirit": "Conexión con la naturaleza y la energía femenina divina."
+      },
+      "reversed": {
+        "love": "Dependencia emocional, falta de cariño o problemas en el hogar.",
+        "work": "Falta de creatividad, estancamiento o problemas financieros.",
+        "spirit": "Bloqueo creativo y desconexión con la abundancia."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "arcana": "major",
+    "name": "El Emperador",
+    "meanings": {
+      "upright": {
+        "love": "Relación estable, protectora y seria. Figura masculina de autoridad.",
+        "work": "Liderazgo, estructura, orden y consolidación de metas.",
+        "spirit": "Disciplina espiritual y defensa de tus creencias."
+      },
+      "reversed": {
+        "love": "Dominación, rigidez excesiva o pareja controladora.",
+        "work": "Abuso de poder, falta de disciplina o inflexibilidad laboral.",
+        "spirit": "Rigidez mental que impide el crecimiento espiritual."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "arcana": "major",
+    "name": "El Hierofante",
+    "meanings": {
+      "upright": {
+        "love": "Compromiso tradicional, matrimonio o valores compartidos.",
+        "work": "Seguir las normas establecidas, enseñanza, mentores y trabajo en grupo.",
+        "spirit": "Búsqueda de conocimiento a través de tradiciones o guías espirituales."
+      },
+      "reversed": {
+        "love": "Ruptura de normas tradicionales, relaciones no convencionales.",
+        "work": "Rebeldía contra el sistema, malas consejos o hipocresía laboral.",
+        "spirit": "Dogmatismo excesivo o necesidad de crear tu propio camino espiritual."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "arcana": "major",
+    "name": "Los Enamorados",
+    "meanings": {
+      "upright": {
+        "love": "Unión armónica, elecciones importantes hechas desde el corazón.",
+        "work": "Asociaciones comerciales exitosas y decisiones alineadas con tus valores.",
+        "spirit": "Integración de dualidades y autoconocimiento a través del espejo del otro."
+      },
+      "reversed": {
+        "love": "Desarmonía, malas decisiones afectivas o infidelidad.",
+        "work": "Conflictos entre socios, indecisión o falta de responsabilidad.",
+        "spirit": "Desconexión interna, conflicto entre mente y corazón."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "arcana": "major",
+    "name": "El Carro",
+    "meanings": {
+      "upright": {
+        "love": "Conquista amorosa, superar obstáculos juntos, avance rápido.",
+        "work": "Victoria, ambición, determinación y éxito competitivo.",
+        "spirit": "Control de la voluntad y enfoque direccional en el camino espiritual."
+      },
+      "reversed": {
+        "love": "Falta de control, agresividad o avanzar en la dirección equivocada.",
+        "work": "Proyectos fuera de control, falta de dirección o derrota.",
+        "spirit": "Energía dispersa, ego desmedido que frena la evolución."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "arcana": "major",
+    "name": "La Fuerza",
+    "meanings": {
+      "upright": {
+        "love": "Pasión compasiva, paciencia y superación de problemas con amor.",
+        "work": "Persistencia suave pero firme. Control de situaciones difíciles.",
+        "spirit": "Coraje interior, domar los propios demonios con compasión."
+      },
+      "reversed": {
+        "love": "Inseguridad, debilidad o dejarse llevar por impulsos bajos.",
+        "work": "Falta de autodisciplina, dudas o abuso de autoridad.",
+        "spirit": "Miedo, falta de fe en uno mismo o debilidad espiritual."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "arcana": "major",
+    "name": "El Ermitaño",
+    "meanings": {
+      "upright": {
+        "love": "Soledad necesaria, introspección o amor prudente y maduro.",
+        "work": "Investigación profunda, especialización y trabajo solitario.",
+        "spirit": "Búsqueda interior, iluminación personal y retiro espiritual."
+      },
+      "reversed": {
+        "love": "Aislamiento no deseado, rechazo a comunicarse o soledad amarga.",
+        "work": "Paranoia laboral, aislamiento del equipo o exceso de análisis.",
+        "spirit": "Negación de la verdad interior o desconexión del mundo."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "arcana": "major",
+    "name": "La Rueda de la Fortuna",
+    "meanings": {
+      "upright": {
+        "love": "Cambios del destino, encuentros kármicos o giros positivos.",
+        "work": "Oportunidades inesperadas, buena suerte y ciclos que avanzan.",
+        "spirit": "Comprensión de los ciclos de la vida y el karma."
+      },
+      "reversed": {
+        "love": "Mala racha, resistencia al cambio o ciclos repetitivos tóxicos.",
+        "work": "Retrasos inesperados, mala suerte o inestabilidad.",
+        "spirit": "Resistencia a aprender la lección kármica necesaria."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "arcana": "major",
+    "name": "La Justicia",
+    "meanings": {
+      "upright": {
+        "love": "Trato justo, verdad, equilibrio y decisiones legales (bodas/divorcios).",
+        "work": "Contratos firmados, equidad y reconocimiento de méritos.",
+        "spirit": "Ley de causa y efecto, integridad moral y claridad."
+      },
+      "reversed": {
+        "love": "Injusticia, frialdad, desequilibrio o acusaciones falsas.",
+        "work": "Trato injusto, disputas legales complicadas o prejuicios.",
+        "spirit": "Negación de la propia responsabilidad o karma no resuelto."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "arcana": "major",
+    "name": "El Colgado",
+    "meanings": {
+      "upright": {
+        "love": "Pausa necesaria, sacrificio por amor o ver las cosas desde otra perspectiva.",
+        "work": "Estancamiento temporal, sacrificio para un bien mayor.",
+        "spirit": "Iluminación a través de la rendición y el dejar ir."
+      },
+      "reversed": {
+        "love": "Sacrificio inútil, estancamiento doloroso o egoísmo.",
+        "work": "Resistencia a lo inevitable, proyectos paralizados o procrastinación.",
+        "spirit": "Materialismo, incapacidad para soltar el control."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "arcana": "major",
+    "name": "La Muerte",
+    "meanings": {
+      "upright": {
+        "love": "Fin de una etapa, transformación profunda o ruptura necesaria.",
+        "work": "Cambio de carrera, fin de un contrato o renovación total.",
+        "spirit": "Renacimiento espiritual, dejar morir el viejo yo."
+      },
+      "reversed": {
+        "love": "Resistencia a terminar una relación muerta, miedo al cambio.",
+        "work": "Estancamiento en un trabajo que no llena, miedo a innovar.",
+        "spirit": "Miedo a la transición y aferramiento al pasado."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "arcana": "major",
+    "name": "La Templanza",
+    "meanings": {
+      "upright": {
+        "love": "Equilibrio, paciencia, armonía y sanación emocional.",
+        "work": "Gestión eficiente, moderación y diplomacia en el trabajo.",
+        "spirit": "Alquimia interior, paz mental y conexión con guías."
+      },
+      "reversed": {
+        "love": "Desequilibrio, impaciencia, discusiones o falta de armonía.",
+        "work": "Mala gestión, conflictos de intereses o exceso de trabajo.",
+        "spirit": "Energía desalineada, falta de propósito o excesos."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "arcana": "major",
+    "name": "El Diablo",
+    "meanings": {
+      "upright": {
+        "love": "Pasión obsesiva, sexualidad intensa, celos o ataduras tóxicas.",
+        "work": "Ambición desmedida, materialismo o sentirse atrapado en un empleo.",
+        "spirit": "Reconocimiento de la propia sombra y apegos materiales."
+      },
+      "reversed": {
+        "love": "Liberación de una relación tóxica, romper cadenas.",
+        "work": "Independencia, dejar un trabajo opresivo o recuperar el control.",
+        "spirit": "Liberación de miedos y superación de la oscuridad interior."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "arcana": "major",
+    "name": "La Torre",
+    "meanings": {
+      "upright": {
+        "love": "Ruptura repentina, revelación chocante o crisis inevitable.",
+        "work": "Pérdida de empleo, colapso de estructuras o cambios drásticos.",
+        "spirit": "Despertar brusco, destrucción del ego y revelación."
+      },
+      "reversed": {
+        "love": "Crisis que se evita por poco, negación de la realidad.",
+        "work": "Miedo al desastre, aferrarse a lo que se derrumba.",
+        "spirit": "Resistencia a la verdad dolorosa, cambio interno lento."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "arcana": "major",
+    "name": "La Estrella",
+    "meanings": {
+      "upright": {
+        "love": "Esperanza, renovación, conexión espiritual y amor puro.",
+        "work": "Inspiración, nuevas oportunidades y reconocimiento del talento.",
+        "spirit": "Fe, sanación profunda y conexión con el universo."
+      },
+      "reversed": {
+        "love": "Desesperanza, desconexión o expectativas poco realistas.",
+        "work": "Falta de inspiración, pesimismo o talento desperdiciado.",
+        "spirit": "Falta de fe, dudas existenciales y desconexión."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "arcana": "major",
+    "name": "La Luna",
+    "meanings": {
+      "upright": {
+        "love": "Ilusiones, miedos, inseguridades o secretos en la pareja.",
+        "work": "Confusión, engaños o falta de claridad en los objetivos.",
+        "spirit": "Exploración del subconsciente, sueños y mundo psíquico."
+      },
+      "reversed": {
+        "love": "Revelación de secretos, superación de miedos o claridad.",
+        "work": "Se disipan las dudas, la verdad sale a la luz.",
+        "spirit": "Superación de bloqueos psíquicos y claridad mental."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "arcana": "major",
+    "name": "El Sol",
+    "meanings": {
+      "upright": {
+        "love": "Felicidad plena, matrimonio exitoso y calidez emocional.",
+        "work": "Éxito rotundo, reconocimiento público y abundancia.",
+        "spirit": "Iluminación, alegría vital y claridad espiritual absoluta."
+      },
+      "reversed": {
+        "love": "Felicidad temporalmente nublada o egocentrismo.",
+        "work": "Éxito retrasado, falta de confianza o arrogancia.",
+        "spirit": "Optimismo forzado o falta de conexión con la alegría interior."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "arcana": "major",
+    "name": "El Juicio",
+    "meanings": {
+      "upright": {
+        "love": "Renovación de la relación, perdón o una decisión definitiva.",
+        "work": "Llamado vocacional, evaluación de desempeño o nuevo rumbo.",
+        "spirit": "Despertar espiritual, redención y comprensión del propósito."
+      },
+      "reversed": {
+        "love": "Dudas, falta de decisión o incapacidad para perdonar.",
+        "work": "Ignorar la vocación, miedo a ser juzgado o estancamiento.",
+        "spirit": "Negación del llamado interior, culpa o remordimiento."
+      }
+    }
+  },
+  {
+    "id": 0,
+    "arcana": "major",
+    "name": "El Loco",
+    "meanings": {
+      "upright": {
+        "love": "Aventura, espontaneidad, amor sin ataduras y nuevos inicios.",
+        "work": "Emprender algo nuevo, salto de fe y originalidad.",
+        "spirit": "Libertad total, vivir el momento y confianza en el universo."
+      },
+      "reversed": {
+        "love": "Imprudencia, compromiso nulo o decisiones impulsivas riesgosas.",
+        "work": "Irresponsabilidad, falta de planificación o riesgos innecesarios.",
+        "spirit": "Ingenuidad peligrosa o rechazo a madurar."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "arcana": "major",
+    "name": "El Mundo",
+    "meanings": {
+      "upright": {
+        "love": "Plenitud, culminación feliz de una etapa, amor universal.",
+        "work": "Logro total, viajes internacionales y metas cumplidas.",
+        "spirit": "Integración del ser, realización y conciencia cósmica."
+      },
+      "reversed": {
+        "love": "Falta de cierre, sensación de que falta algo para ser feliz.",
+        "work": "Proyectos inconclusos, falta de visión global o retrasos.",
+        "spirit": "Apegos que impiden la plenitud final."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "arcana": "minor",
+    "name": "Sota de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Noticias amorosas, pasión juvenil y entusiasmo explorador.",
+        "work": "Nuevas ideas creativas, mensajes de trabajo o inicio de proyecto.",
+        "spirit": "Descubrimiento de una nueva pasión espiritual o entusiasmo."
+      },
+      "reversed": {
+        "love": "Malas noticias, inmadurez emocional o falta de interés.",
+        "work": "Falta de dirección, ideas sin ejecutar o pesimismo.",
+        "spirit": "Pérdida de motivación o búsqueda espiritual superficial."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "arcana": "minor",
+    "name": "Caballo de Bastos",
+    "meanings": {
+      "upright": {
+        "love": "Pasión intensa pero quizás fugaz, aventura, conquista.",
+        "work": "Acción rápida, viajes de negocios, energía y determinación.",
+        "spirit": "Búsqueda activa de la verdad y coraje espiritual."
+      },
+      "reversed": {
+        "love": "Impulsividad agresiva, inestabilidad o alguien que huye.",
+        "work": "Proyectos dispersos, prisa que lleva al error o retrasos.",
+        "spirit": "Fanatismo, impaciencia o energía mal canalizada."
+      }
+    }
+  }
+]
